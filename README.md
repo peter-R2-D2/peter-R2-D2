@@ -11,7 +11,7 @@ const pedroFarias {
   Tools: [React, Node, Styles-Components]
 }
 ```
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PedroFariasSosa&theme=nord&show_icons=true)
 
 <!--
 **PedroFariasSosa/PedroFariasSosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
