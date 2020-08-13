@@ -1,4 +1,14 @@
+
+
 ### Hola Soy Pedro Arturo Farias Santillan 👋
+
+###  Web developent
+
+``` js
+const pedroFarias {
+  Habilidades: [HTML, CSS, JS]
+}
+```
 
 
 <!--
