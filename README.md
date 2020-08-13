@@ -1,12 +1,14 @@
+### Hi!, I'm Pedro Arturo Farias Santillan 👨‍💻
+
 ![javascript](https://user-images.githubusercontent.com/45549901/90172680-fb428780-dd68-11ea-92f9-5318a4de6d06.gif)
 
-### Hola Soy Pedro Arturo Farias Santillan 👋
-
-###  Web developent
+###  Web Developer
 
 ``` js
 const pedroFarias {
-  Habilidades: [HTML, CSS, JS]
+  pronouns: "he" | "him",
+  Code: [HTML, CSS, JS],
+  Tools: [React, Node, Styles-Components]
 }
 ```
 
