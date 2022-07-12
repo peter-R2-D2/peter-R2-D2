@@ -3,9 +3,7 @@
 ![javascript](https://user-images.githubusercontent.com/45549901/90172680-fb428780-dd68-11ea-92f9-5318a4de6d06.gif)
 
 ###  Frontend Engineer
-
-<div>
-  <div>
+  
     ``` js
     const arturo {
       name: "Pedro Arturo Farias Santinllan",
@@ -15,11 +13,7 @@
       Tools: [Vue, React, Node, JS]
     }
     ```
-  </div>
-  <div>
     ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peter-R2-D2&theme=nord&show_icons=true)
-  </div>
-</div>
 
 <!--
 **peter-R2-D2/peter-R2-D2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
