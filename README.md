@@ -13,7 +13,7 @@
       Tools: [Vue, React, Node, JS]
     }
     ```
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peter-R2-D2&theme=nord&show_icons=true)
+   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peter-R2-D2&theme=nord&show_icons=true)
 
 <!--
 **peter-R2-D2/peter-R2-D2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
