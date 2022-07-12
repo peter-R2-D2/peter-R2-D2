@@ -2,7 +2,7 @@
 
 ![javascript](https://user-images.githubusercontent.com/45549901/90172680-fb428780-dd68-11ea-92f9-5318a4de6d06.gif)
 
-###  Web Developer
+###  Frontend Engineer
 
 ``` js
 const arturo {
