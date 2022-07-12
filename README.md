@@ -5,16 +5,18 @@
 ###  Web Developer
 
 ``` js
-const pedroFarias {
-  pronouns: "he" | "him",
-  Code: [HTML, CSS, JS],
-  Tools: [React, Node, Styles-Components]
+const arturo {
+  name: "Pedro Arturo Farias Santinllan",
+  job: "Frontend Engineer @ ZenInteractiveLabs",
+  place: "Mexico",
+  desc: "Geek 😎"
+  Tools: [Vue, React, Node, JS]
 }
 ```
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PedroFariasSosa&theme=nord&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peter-R2-D2&theme=nord&show_icons=true)
 
 <!--
-**PedroFariasSosa/PedroFariasSosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**peter-R2-D2/peter-R2-D2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
